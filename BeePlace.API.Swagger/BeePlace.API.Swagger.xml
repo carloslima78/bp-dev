@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BeePlace.API.Swagger</name>
+    </assembly>
+    <members>
+        <member name="M:BeePlace.API.Swagger.Controllers.ValuesController.Get">
+            <summary>
+            A lista tem detalhes
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BeePlace.API.Swagger.Controllers.ValuesController.Get(System.Int32)">
+            <summary>
+            Busca de Cidades
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

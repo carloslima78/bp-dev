@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BeePlace.Model.Payment.Entity.PaymentInvoice">
+    <Position X="4.75" Y="1" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="BeePlace.Model.Payment.Entity.PaymentInvoice.Status">
+        <TypeIdentifier>
+          <NewMemberFileName>Payment\Entity\PaymentInvoice.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <AssociationLine Name="Payments" Type="BeePlace.Model.Payment.Entity.Payment">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.185" Y="0.235" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAACABAAAAAACAAAAAAAAAAgAACAAAAAA=</HashCode>
+      <FileName>Payment\Entity\PaymentInvoice.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Payments" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="BeePlace.Model.Payment.Entity.Payment">
+    <Position X="4.75" Y="5.5" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="BeePlace.Model.Payment.Entity.Payment.Status">
+        <TypeIdentifier>
+          <NewMemberFileName>Payment\Entity\Payment.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <AssociationLine Name="PaymentMethod" Type="BeePlace.Model.Payment.ValueObject.PaymentMethod">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.185" Y="0.11" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAABAAAAAAAAEACAAAIAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Payment\Entity\Payment.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="PaymentMethod" />
+      <Property Name="ClientPaymentData" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="BeePlace.Model.Payment.ValueObject.PaymentMethod">
+    <Position X="1.25" Y="6" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Payment\ValueObject\PaymentMethod.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BeePlace.Model.Payment.ValueObject.Card">
+    <Position X="4.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAABAAAAAAAAAAEAA=</HashCode>
+      <FileName>Payment\ValueObject\Card.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BeePlace.Model.ServiceOrder.Entity.Order" Collapsed="true">
+    <Position X="0.75" Y="1" Width="2.25" />
+    <AssociationLine Name="OrderItems" Type="BeePlace.Model.ServiceOrder.Entity.OrderItem">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.185" Y="0.36" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="PaymentInvoice" Type="BeePlace.Model.Payment.Entity.PaymentInvoice">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.31" Y="0.11" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAECQAAAAAAAAAAAAAAgUACwAAAADAQEACQ=</HashCode>
+      <FileName>ServiceOrder\Entity\Order.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="PaymentInvoice" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="OrderItems" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="BeePlace.Model.ServiceOrder.Entity.OrderItem" Collapsed="true">
+    <Position X="1" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAAAAAAIAAAAAAAAAAAAgAAAAAEAAAAAAAAACQAAAAA=</HashCode>
+      <FileName>ServiceOrder\Entity\OrderItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BeePlace.Model.Profile.Client.Entity.ClientPaymentData">
+    <Position X="1.5" Y="7.75" Width="1.75" />
+    <AssociationLine Name="Card" Type="BeePlace.Model.Payment.ValueObject.Card">
+      <MemberNameLabel ManuallyPlaced="true" ManuallySized="true">
+        <Position X="0.435" Y="0.11" Height="0.182" Width="0.67" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>IABAAAAABAAAAAAAAEAAAAAAAAAAAAAEIAAABAAAEAA=</HashCode>
+      <FileName>Profile\Client\Entity\ClientPaymentData.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Card" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

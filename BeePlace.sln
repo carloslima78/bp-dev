@@ -1,0 +1,109 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. BeePlace.FrontEnd", "01. BeePlace.FrontEnd", "{F172B7D4-18D5-4189-BAB5-9DE3CE7E3072}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02. BeePlace.Application", "02. BeePlace.Application", "{FBC95D73-5D74-408B-9C85-EAF652A6CE0B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03. BeePlace.Domine", "03. BeePlace.Domine", "{47845EE7-2F0E-4C3F-8AFB-B405CA70E446}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04. BeePlace.Infra", "04. BeePlace.Infra", "{97F332CE-1924-40FF-800C-467D7895CD1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeePlace.Infra", "BeePlace.Infra\BeePlace.Infra.csproj", "{C51C9613-1BC4-4139-B3A0-0F40D5DD1D36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeePlace.Model", "BeePlace.Model\BeePlace.Model.csproj", "{943FE222-BA3D-4389-A831-B028A111CD09}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05. BeePlace.UnitTests", "05. BeePlace.UnitTests", "{98FDED09-58E4-4AD8-B131-D8108845124C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeePlace.UnitTests", "BeePlace.UnitTests\BeePlace.UnitTests.csproj", "{87C3361B-4263-4F86-8CBC-E870F6744368}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{29D15DDD-5AC1-4E61-8A29-E9216B89CE68}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Job", "Job", "{73BD20DA-63BB-4E01-8D15-0476383A4DAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeePlace.Services", "BeePlace.Services\BeePlace.Services.csproj", "{CABDEE0A-6FAF-4B98-B7A8-A9930A1C148E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeePlace.API.Standart", "BeePlace.API.Standart\BeePlace.API.Standart.csproj", "{3F37B524-20E3-46CF-8E42-1F6E918E2E37}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeePlace.XUnitTestProject", "BeePlace.XUnitTestProject\BeePlace.XUnitTestProject.csproj", "{D43FAF2C-1FAA-45CF-8FE9-E80CA7569B0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C51C9613-1BC4-4139-B3A0-0F40D5DD1D36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C51C9613-1BC4-4139-B3A0-0F40D5DD1D36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C51C9613-1BC4-4139-B3A0-0F40D5DD1D36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C51C9613-1BC4-4139-B3A0-0F40D5DD1D36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{943FE222-BA3D-4389-A831-B028A111CD09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{943FE222-BA3D-4389-A831-B028A111CD09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{943FE222-BA3D-4389-A831-B028A111CD09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{943FE222-BA3D-4389-A831-B028A111CD09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87C3361B-4263-4F86-8CBC-E870F6744368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87C3361B-4263-4F86-8CBC-E870F6744368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87C3361B-4263-4F86-8CBC-E870F6744368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87C3361B-4263-4F86-8CBC-E870F6744368}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CABDEE0A-6FAF-4B98-B7A8-A9930A1C148E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CABDEE0A-6FAF-4B98-B7A8-A9930A1C148E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CABDEE0A-6FAF-4B98-B7A8-A9930A1C148E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CABDEE0A-6FAF-4B98-B7A8-A9930A1C148E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F37B524-20E3-46CF-8E42-1F6E918E2E37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F37B524-20E3-46CF-8E42-1F6E918E2E37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F37B524-20E3-46CF-8E42-1F6E918E2E37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F37B524-20E3-46CF-8E42-1F6E918E2E37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D43FAF2C-1FAA-45CF-8FE9-E80CA7569B0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D43FAF2C-1FAA-45CF-8FE9-E80CA7569B0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D43FAF2C-1FAA-45CF-8FE9-E80CA7569B0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D43FAF2C-1FAA-45CF-8FE9-E80CA7569B0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C51C9613-1BC4-4139-B3A0-0F40D5DD1D36} = {97F332CE-1924-40FF-800C-467D7895CD1B}
+		{943FE222-BA3D-4389-A831-B028A111CD09} = {47845EE7-2F0E-4C3F-8AFB-B405CA70E446}
+		{87C3361B-4263-4F86-8CBC-E870F6744368} = {98FDED09-58E4-4AD8-B131-D8108845124C}
+		{29D15DDD-5AC1-4E61-8A29-E9216B89CE68} = {FBC95D73-5D74-408B-9C85-EAF652A6CE0B}
+		{73BD20DA-63BB-4E01-8D15-0476383A4DAB} = {FBC95D73-5D74-408B-9C85-EAF652A6CE0B}
+		{CABDEE0A-6FAF-4B98-B7A8-A9930A1C148E} = {47845EE7-2F0E-4C3F-8AFB-B405CA70E446}
+		{3F37B524-20E3-46CF-8E42-1F6E918E2E37} = {29D15DDD-5AC1-4E61-8A29-E9216B89CE68}
+		{D43FAF2C-1FAA-45CF-8FE9-E80CA7569B0A} = {98FDED09-58E4-4AD8-B131-D8108845124C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4F82CB6-85EE-4FB9-9359-4C9411C6685F}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 7
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/beeplace
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = BeePlace.Infra\\BeePlace.Infra.csproj
+		SccProjectTopLevelParentUniqueName1 = BeePlace.sln
+		SccProjectName1 = BeePlace.Infra
+		SccLocalPath1 = BeePlace.Infra
+		SccProjectUniqueName2 = BeePlace.Model\\BeePlace.Model.csproj
+		SccProjectTopLevelParentUniqueName2 = BeePlace.sln
+		SccProjectName2 = BeePlace.Model
+		SccLocalPath2 = BeePlace.Model
+		SccProjectUniqueName3 = BeePlace.UnitTests\\BeePlace.UnitTests.csproj
+		SccProjectTopLevelParentUniqueName3 = BeePlace.sln
+		SccProjectName3 = BeePlace.UnitTests
+		SccLocalPath3 = BeePlace.UnitTests
+		SccProjectUniqueName4 = BeePlace.Services\\BeePlace.Services.csproj
+		SccProjectTopLevelParentUniqueName4 = BeePlace.sln
+		SccProjectName4 = BeePlace.Services
+		SccLocalPath4 = BeePlace.Services
+		SccProjectUniqueName5 = BeePlace.API.Standart\\BeePlace.API.Standart.csproj
+		SccProjectTopLevelParentUniqueName5 = BeePlace.sln
+		SccProjectName5 = BeePlace.API.Standart
+		SccLocalPath5 = BeePlace.API.Standart
+		SccProjectUniqueName6 = BeePlace.XUnitTestProject\\BeePlace.XUnitTestProject.csproj
+		SccProjectTopLevelParentUniqueName6 = BeePlace.sln
+		SccProjectName6 = BeePlace.XUnitTestProject
+		SccLocalPath6 = BeePlace.XUnitTestProject
+	EndGlobalSection
+EndGlobal

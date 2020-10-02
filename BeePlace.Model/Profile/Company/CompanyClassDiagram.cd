@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BeePlace.Model.Expertise.Entity.Expertise">
+    <Position X="3.25" Y="6" Width="1.5" />
+    <AssociationLine Name="CNAE" Type="BeePlace.Model.Expertise.ValueObject.CNAE">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.316" Y="0.06" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="Childs" Type="BeePlace.Model.Expertise.Entity.Expertise" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="3.25" Y="7.478" />
+        <Point X="2.354" Y="7.478" />
+        <Point X="2.354" Y="8.216" />
+        <Point X="3.25" Y="8.216" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.185" Y="0.235" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIIQAhAIAAAAAAQAQAAAQAAAAAAAAABAEAAAA=</HashCode>
+      <FileName>Expertise\Entity\Expertise.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="CNAE" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="Childs" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="BeePlace.Model.Expertise.ValueObject.CNAE">
+    <Position X="5.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAQAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Expertise\ValueObject\CNAE.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BeePlace.Model.Profile.Company.Entity.Company">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <AssociationLine Name="Address" Type="BeePlace.Model.Geolocation.Entity.Address" FixedToPoint="true">
+      <Path>
+        <Point X="5.5" Y="1.875" />
+        <Point X="9.25" Y="1.875" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="1.61" Y="0.06" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="CompanyCoverage" Type="BeePlace.Model.Profile.Company.Entity.CompanyCoverage">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.235" Y="0.06" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="User" Type="BeePlace.Model.Profile.User.Entity.User">
+      <MemberNameLabel ManuallyPlaced="true" ManuallySized="true">
+        <Position X="-0.836" Y="0.11" Height="0.182" Width="0.691" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="Expertises" Type="BeePlace.Model.Expertise.Entity.Expertise">
+      <MemberNameLabel ManuallyPlaced="true" ManuallySized="true">
+        <Position X="0.058" Y="0.445" Height="0.182" Width="1.024" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="CompanyPartners" Type="BeePlace.Model.Profile.Company.Entity.CompanyPartner">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.06" Y="0.11" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="CompanyFiles" Type="BeePlace.Model.Profile.Company.Entity.CompanyFile">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.485" Y="0.06" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAgBAAAEACAAAIAAAAAAUIRAAAAIACACAAAAAAAAQAA=</HashCode>
+      <FileName>Profile\Company\Entity\Company.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Address" />
+      <Property Name="CompanyCoverage" />
+      <Property Name="User" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="Expertises" />
+      <Property Name="CompanyPartners" />
+      <Property Name="CompanyFiles" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="BeePlace.Model.Geolocation.Entity.Address">
+    <Position X="9.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAACQCAAEAAACAABEAICAAAAAAAAAAAAEIABAAAAAA=</HashCode>
+      <FileName>Geolocation\Entity\Address.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BeePlace.Model.Profile.Company.Entity.CompanyCoverage">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAIAAAAAAAAEAAAAAAABAAAAAA=</HashCode>
+      <FileName>Profile\Company\Entity\CompanyCoverage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BeePlace.Model.Profile.Company.Entity.CompanyPartner">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAQAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Profile\Company\Entity\CompanyPartner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BeePlace.Model.Profile.Company.Entity.CompanyFile">
+    <Position X="7.25" Y="2.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="BeePlace.Model.Profile.Company.Entity.CompanyFile.FileType">
+        <TypeIdentifier>
+          <NewMemberFileName>Profile\Company\Entity\CompanyFile.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAEAAAAAAAQAACAAEAAAAQBAAAAAAAA=</HashCode>
+      <FileName>Profile\Company\Entity\CompanyFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BeePlace.Model.Profile.User.Entity.User">
+    <Position X="5" Y="4.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="BeePlace.Model.Profile.User.Entity.User.UserStatus" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Profile\User\Entity\User.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAASAAAAAAAAAAAAAAAAAAABACAAAgAAAAAAA=</HashCode>
+      <FileName>Profile\User\Entity\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

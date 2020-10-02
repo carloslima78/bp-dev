@@ -1,0 +1,116 @@
+C:\Work\BeePlace\BeePlace.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Work\BeePlace\BeePlace.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Work\BeePlace\BeePlace.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Work\BeePlace\BeePlace.UnitTests\bin\Debug\BeePlace.UnitTests.dll
+C:\Work\BeePlace\BeePlace.UnitTests\bin\Debug\BeePlace.UnitTests.pdb
+C:\Work\BeePlace\BeePlace.UnitTests\bin\Debug\BeePlace.BLL.dll
+C:\Work\BeePlace\BeePlace.UnitTests\bin\Debug\BeePlace.Infra.dll
+C:\Work\BeePlace\BeePlace.UnitTests\bin\Debug\BeePlace.Model.dll
+C:\Work\BeePlace\BeePlace.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Work\BeePlace\BeePlace.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Work\BeePlace\BeePlace.UnitTests\bin\Debug\BeePlace.DAL.dll
+C:\Work\BeePlace\BeePlace.UnitTests\bin\Debug\Dapper.dll
+C:\Work\BeePlace\BeePlace.UnitTests\bin\Debug\BeePlace.BLL.pdb
+C:\Work\BeePlace\BeePlace.UnitTests\bin\Debug\BeePlace.Infra.pdb
+C:\Work\BeePlace\BeePlace.UnitTests\bin\Debug\BeePlace.Model.pdb
+C:\Work\BeePlace\BeePlace.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Work\BeePlace\BeePlace.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Work\BeePlace\BeePlace.UnitTests\bin\Debug\BeePlace.DAL.pdb
+C:\Work\BeePlace\BeePlace.UnitTests\bin\Debug\Dapper.xml
+C:\Work\BeePlace\BeePlace.UnitTests\obj\Debug\BeePlace.UnitTests.csprojAssemblyReference.cache
+C:\Work\BeePlace\BeePlace.UnitTests\obj\Debug\BeePlace.UnitTests.csproj.CoreCompileInputs.cache
+C:\Work\BeePlace\BeePlace.UnitTests\obj\Debug\BeePlace.UnitTests.csproj.CopyComplete
+C:\Work\BeePlace\BeePlace.UnitTests\obj\Debug\BeePlace.UnitTests.dll
+C:\Work\BeePlace\BeePlace.UnitTests\obj\Debug\BeePlace.UnitTests.pdb
+C:\Work\BeePlace\BeePlace.UnitTests\bin\Debug\BeePlace.UnitTests.dll.config
+C:\Work\BeePlace\BeePlace.UnitTests\bin\Debug\Microsoft.Azure.Storage.Blob.dll
+C:\Work\BeePlace\BeePlace.UnitTests\bin\Debug\Microsoft.Azure.Storage.Common.dll
+C:\Work\BeePlace\BeePlace.UnitTests\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Work\BeePlace\BeePlace.UnitTests\bin\Debug\Newtonsoft.Json.dll
+C:\Work\BeePlace\BeePlace.UnitTests\bin\Debug\Microsoft.Azure.Storage.Blob.pdb
+C:\Work\BeePlace\BeePlace.UnitTests\bin\Debug\Microsoft.Azure.Storage.Blob.xml
+C:\Work\BeePlace\BeePlace.UnitTests\bin\Debug\Microsoft.Azure.Storage.Common.pdb
+C:\Work\BeePlace\BeePlace.UnitTests\bin\Debug\Microsoft.Azure.Storage.Common.xml
+C:\Work\BeePlace\BeePlace.UnitTests\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Work\BeePlace\BeePlace.UnitTests\bin\Debug\Newtonsoft.Json.xml
+C:\Workspace - BeePlaceServiceProvider\BeePlace\BeePlace.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Workspace - BeePlaceServiceProvider\BeePlace\BeePlace.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Workspace - BeePlaceServiceProvider\BeePlace\BeePlace.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Workspace - BeePlaceServiceProvider\BeePlace\BeePlace.UnitTests\bin\Debug\BeePlace.UnitTests.dll.config
+C:\Workspace - BeePlaceServiceProvider\BeePlace\BeePlace.UnitTests\bin\Debug\BeePlace.UnitTests.dll
+C:\Workspace - BeePlaceServiceProvider\BeePlace\BeePlace.UnitTests\bin\Debug\BeePlace.UnitTests.pdb
+C:\Workspace - BeePlaceServiceProvider\BeePlace\BeePlace.UnitTests\bin\Debug\BeePlace.BLL.dll
+C:\Workspace - BeePlaceServiceProvider\BeePlace\BeePlace.UnitTests\bin\Debug\BeePlace.Infra.dll
+C:\Workspace - BeePlaceServiceProvider\BeePlace\BeePlace.UnitTests\bin\Debug\BeePlace.Model.dll
+C:\Workspace - BeePlaceServiceProvider\BeePlace\BeePlace.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Workspace - BeePlaceServiceProvider\BeePlace\BeePlace.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Workspace - BeePlaceServiceProvider\BeePlace\BeePlace.UnitTests\bin\Debug\BeePlace.DAL.dll
+C:\Workspace - BeePlaceServiceProvider\BeePlace\BeePlace.UnitTests\bin\Debug\Microsoft.Azure.Storage.Blob.dll
+C:\Workspace - BeePlaceServiceProvider\BeePlace\BeePlace.UnitTests\bin\Debug\Microsoft.Azure.Storage.Common.dll
+C:\Workspace - BeePlaceServiceProvider\BeePlace\BeePlace.UnitTests\bin\Debug\Dapper.dll
+C:\Workspace - BeePlaceServiceProvider\BeePlace\BeePlace.UnitTests\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Workspace - BeePlaceServiceProvider\BeePlace\BeePlace.UnitTests\bin\Debug\Newtonsoft.Json.dll
+C:\Workspace - BeePlaceServiceProvider\BeePlace\BeePlace.UnitTests\bin\Debug\BeePlace.BLL.pdb
+C:\Workspace - BeePlaceServiceProvider\BeePlace\BeePlace.UnitTests\bin\Debug\BeePlace.Infra.pdb
+C:\Workspace - BeePlaceServiceProvider\BeePlace\BeePlace.UnitTests\bin\Debug\BeePlace.Model.pdb
+C:\Workspace - BeePlaceServiceProvider\BeePlace\BeePlace.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Workspace - BeePlaceServiceProvider\BeePlace\BeePlace.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Workspace - BeePlaceServiceProvider\BeePlace\BeePlace.UnitTests\bin\Debug\BeePlace.DAL.pdb
+C:\Workspace - BeePlaceServiceProvider\BeePlace\BeePlace.UnitTests\bin\Debug\Microsoft.Azure.Storage.Blob.pdb
+C:\Workspace - BeePlaceServiceProvider\BeePlace\BeePlace.UnitTests\bin\Debug\Microsoft.Azure.Storage.Blob.xml
+C:\Workspace - BeePlaceServiceProvider\BeePlace\BeePlace.UnitTests\bin\Debug\Microsoft.Azure.Storage.Common.pdb
+C:\Workspace - BeePlaceServiceProvider\BeePlace\BeePlace.UnitTests\bin\Debug\Microsoft.Azure.Storage.Common.xml
+C:\Workspace - BeePlaceServiceProvider\BeePlace\BeePlace.UnitTests\bin\Debug\Dapper.xml
+C:\Workspace - BeePlaceServiceProvider\BeePlace\BeePlace.UnitTests\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Workspace - BeePlaceServiceProvider\BeePlace\BeePlace.UnitTests\bin\Debug\Newtonsoft.Json.xml
+C:\Workspace - BeePlaceServiceProvider\BeePlace\BeePlace.UnitTests\obj\Debug\BeePlace.UnitTests.csprojAssemblyReference.cache
+C:\Workspace - BeePlaceServiceProvider\BeePlace\BeePlace.UnitTests\obj\Debug\BeePlace.UnitTests.csproj.CoreCompileInputs.cache
+C:\Workspace - BeePlaceServiceProvider\BeePlace\BeePlace.UnitTests\obj\Debug\BeePlace.UnitTests.csproj.CopyComplete
+C:\Workspace - BeePlaceServiceProvider\BeePlace\BeePlace.UnitTests\obj\Debug\BeePlace.UnitTests.dll
+C:\Workspace - BeePlaceServiceProvider\BeePlace\BeePlace.UnitTests\obj\Debug\BeePlace.UnitTests.pdb
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.UnitTests\bin\Debug\BeePlace.UnitTests.dll.config
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.UnitTests\bin\Debug\BeePlace.UnitTests.dll
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.UnitTests\bin\Debug\BeePlace.UnitTests.pdb
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.UnitTests\bin\Debug\BeePlace.Infra.dll
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.UnitTests\bin\Debug\BeePlace.Model.dll
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.UnitTests\bin\Debug\BeePlace.Services.dll
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.UnitTests\bin\Debug\Dapper.dll
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.UnitTests\bin\Debug\Dommel.dll
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.UnitTests\bin\Debug\FluentValidation.dll
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.UnitTests\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.UnitTests\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.UnitTests\bin\Debug\System.ValueTuple.dll
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.UnitTests\bin\Debug\Newtonsoft.Json.dll
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.UnitTests\bin\Debug\Microsoft.Azure.Storage.Blob.dll
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.UnitTests\bin\Debug\Microsoft.Azure.Storage.Common.dll
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.UnitTests\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.UnitTests\bin\Debug\BeePlace.Infra.pdb
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.UnitTests\bin\Debug\BeePlace.Model.pdb
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.UnitTests\bin\Debug\BeePlace.Services.pdb
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.UnitTests\bin\Debug\BeePlace.Services.dll.config
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.UnitTests\bin\Debug\Dapper.xml
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.UnitTests\bin\Debug\Dommel.xml
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.UnitTests\bin\Debug\FluentValidation.xml
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.UnitTests\bin\Debug\System.ValueTuple.xml
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.UnitTests\bin\Debug\Newtonsoft.Json.xml
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.UnitTests\bin\Debug\Microsoft.Azure.Storage.Blob.pdb
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.UnitTests\bin\Debug\Microsoft.Azure.Storage.Blob.xml
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.UnitTests\bin\Debug\Microsoft.Azure.Storage.Common.pdb
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.UnitTests\bin\Debug\Microsoft.Azure.Storage.Common.xml
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.UnitTests\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.UnitTests\obj\Debug\BeePlace.UnitTests.csprojAssemblyReference.cache
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.UnitTests\obj\Debug\BeePlace.UnitTests.csproj.CopyComplete
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.UnitTests\obj\Debug\BeePlace.UnitTests.dll
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.UnitTests\obj\Debug\BeePlace.UnitTests.pdb
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.UnitTests\bin\Debug\System.Net.Http.dll
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.UnitTests\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.UnitTests\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.UnitTests\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.UnitTests\obj\Debug\BeePlace.UnitTests.csproj.CoreCompileInputs.cache

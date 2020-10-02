@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BeePlace.Model.Profile.Client.Entity.Client">
+    <Position X="4" Y="2.75" Width="1.75" />
+    <AssociationLine Name="Addresses" Type="BeePlace.Model.Geolocation.Entity.Address">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.235" Y="0.06" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="Users" Type="BeePlace.Model.Profile.User.Entity.User">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.11" Y="0.31" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="ClientPaymentDatas" Type="BeePlace.Model.Profile.Client.Entity.ClientPaymentData">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.185" Y="0.11" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AABAACAEACAAAAAAAAAAQAQAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Profile\Client\Entity\Client.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Addresses" />
+      <Property Name="Users" />
+      <Property Name="ClientPaymentDatas" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="BeePlace.Model.Geolocation.Entity.Address">
+    <Position X="7" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAACQCAAEAAACAABEAICAAAAAAAAAAAAEIABAAAAAA=</HashCode>
+      <FileName>Geolocation\Entity\Address.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BeePlace.Model.Profile.User.Entity.User">
+    <Position X="3.75" Y="5.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="BeePlace.Model.Profile.User.Entity.User.UserStatus">
+        <TypeIdentifier>
+          <NewMemberFileName>Profile\User\Entity\User.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAASAAAAAAAAAAAAAAAAAAABACAAAAAAAAAAA=</HashCode>
+      <FileName>Profile\User\Entity\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BeePlace.Model.Profile.Client.Entity.ClientPaymentData">
+    <Position X="0.5" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>IABAAAAABAAAAAAAAEAAAAAAAAAAAAAEIAAABAAAEAA=</HashCode>
+      <FileName>Profile\Client\Entity\ClientPaymentData.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Card" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="BeePlace.Model.Payment.ValueObject.Card">
+    <Position X="0.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAABAAAAAAAAAAEAA=</HashCode>
+      <FileName>Payment\ValueObject\Card.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

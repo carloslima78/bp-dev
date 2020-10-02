@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BeePlace.Model.ServiceOrder.Entity.Order">
+    <Position X="10" Y="2.25" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="BeePlace.Model.ServiceOrder.Entity.Order.Status">
+        <TypeIdentifier>
+          <NewMemberFileName>ServiceOrder\Entity\Order.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <AssociationLine Name="Client" Type="BeePlace.Model.Profile.Client.Entity.Client">
+      <MemberNameLabel ManuallyPlaced="true" ManuallySized="true">
+        <Position X="0.185" Y="0.3" Height="0.182" Width="0.649" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="Company" Type="BeePlace.Model.Profile.Company.Entity.Company">
+      <MemberNameLabel ManuallyPlaced="true" ManuallySized="true">
+        <Position X="0.425" Y="0.315" Height="0.182" Width="1.045" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="OrderEstimate" Type="BeePlace.Model.ServiceOrder.Entity.OrderEstimate">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.111" Y="0.06" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="OrderItems" Type="BeePlace.Model.ServiceOrder.Entity.OrderItem">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.441" Y="0.06" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAECQAAAAAAAAAAAAAAgUACwAAAADAQEACQ=</HashCode>
+      <FileName>ServiceOrder\Entity\Order.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Client" />
+      <Property Name="Company" />
+      <Property Name="OrderEstimate" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="OrderItems" />
+      <Property Name="OrderFeedbacks" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="BeePlace.Model.ServiceOrder.Entity.OrderItem">
+    <Position X="13.25" Y="3" Width="2" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="BeePlace.Model.ServiceOrder.Entity.OrderItem.Status">
+        <TypeIdentifier>
+          <NewMemberFileName>ServiceOrder\Entity\OrderItem.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <AssociationLine Name="Expertise" Type="BeePlace.Model.Expertise.Entity.Expertise" FixedFromPoint="true">
+      <Path>
+        <Point X="14" Y="6.852" />
+        <Point X="14" Y="7.5" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true" ManuallySized="true">
+        <Position X="-1.067" Y="0.182" Height="0.182" Width="0.8" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="OrderItemAudits" Type="BeePlace.Model.ServiceOrder.Entity.OrderItemAudit">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.3" Y="0.06" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>MAAAAAAIAAAAAAAAAAAAgAAAAAEAAAAAAAAACQAAAAA=</HashCode>
+      <FileName>ServiceOrder\Entity\OrderItem.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Expertise" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="OrderItemAudits" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="BeePlace.Model.Profile.Company.Entity.Company" Collapsed="true">
+    <Position X="9" Y="8.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAgBAAAEACAAAIAAAAAAUIRAAAAIACACAAAAAAAAQAA=</HashCode>
+      <FileName>Profile\Company\Entity\Company.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BeePlace.Model.Expertise.Entity.Expertise" Collapsed="true">
+    <Position X="13.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIQAhAIAAAAAAQAQAAAQAAAAAAAAABAEAAAA=</HashCode>
+      <FileName>Expertise\Entity\Expertise.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BeePlace.Model.Profile.Client.Entity.Client" Collapsed="true">
+    <Position X="11" Y="8.25" Width="1.5" />
+    <AssociationLine Name="Addresses" Type="BeePlace.Model.Geolocation.Entity.Address">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.06" Y="0.135" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AABAACAEACAAAAAAAAAAQAQAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Profile\Client\Entity\Client.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Addresses" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="BeePlace.Model.ServiceOrder.Entity.OrderItemAudit">
+    <Position X="17" Y="2.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="BeePlace.Model.ServiceOrder.Entity.OrderItemAudit.AuditType">
+        <TypeIdentifier>
+          <NewMemberFileName>ServiceOrder\Entity\OrderItemAudit.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAARAAAAAAAEAAAAAAAQAACAAAAAAAQBAAAAAAAA=</HashCode>
+      <FileName>ServiceOrder\Entity\OrderItemAudit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BeePlace.Model.ServiceOrder.Entity.OrderEstimate">
+    <Position X="6.75" Y="2" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAACAAAAAAACIAAAgEAAAAAAABAAAAAQ=</HashCode>
+      <FileName>ServiceOrder\Entity\OrderEstimate.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="OrderEstimateItems" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="BeePlace.Model.ServiceOrder.Entity.OrderFeedback">
+    <Position X="6" Y="5" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="BeePlace.Model.ServiceOrder.Entity.OrderFeedback.Target">
+        <TypeIdentifier>
+          <NewMemberFileName>ServiceOrder\Entity\OrderFeedback.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAkCAEAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>ServiceOrder\Entity\OrderFeedback.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BeePlace.Model.Geolocation.Entity.Address" Collapsed="true">
+    <Position X="11" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAACQCAAEAAACAABEAICAAAAAAAAAAAAEIABAAAAAA=</HashCode>
+      <FileName>Geolocation\Entity\Address.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BeePlace.Model.ServiceOrder.Entity.OrderEstimateItem">
+    <Position X="2.25" Y="2" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAEAAA=</HashCode>
+      <FileName>ServiceOrder\Entity\OrderEstimateItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

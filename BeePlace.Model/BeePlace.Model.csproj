@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{943FE222-BA3D-4389-A831-B028A111CD09}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BeePlace.Model</RootNamespace>
+    <AssemblyName>BeePlace.Model</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FluentValidation, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7de548da2fbae0f0, processorArchitecture=MSIL">
+      <HintPath>..\packages\FluentValidation.8.1.3\lib\net45\FluentValidation.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Annotations, Version=4.2.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ComponentModel.Annotations.4.4.1\lib\net461\System.ComponentModel.Annotations.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.ComponentModel.Primitives, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ComponentModel.Primitives.4.3.0\lib\net45\System.ComponentModel.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net461\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DTO\ServiceOrder\AcceptEstimateDTO.cs" />
+    <Compile Include="DTO\ServiceOrder\AuditDTO.cs" />
+    <Compile Include="Expertise\Entity\ExpertiseAttribute.cs" />
+    <Compile Include="Expertise\Entity\ExpertiseAttributeValue.cs" />
+    <Compile Include="Expertise\ValueObject\CNAE.cs" />
+    <Compile Include="Expertise\Entity\Expertise.cs" />
+    <Compile Include="Expertise\Entity\ExpertiseDetail.cs" />
+    <Compile Include="Expertise\ValueObject\IBGEDomine.cs" />
+    <Compile Include="Expertise\ValueObject\MCC.cs" />
+    <Compile Include="Geolocation\Entity\Address.cs" />
+    <Compile Include="Geolocation\ValueObject\City.cs" />
+    <Compile Include="Geolocation\ValueObject\District.cs" />
+    <Compile Include="Geolocation\ValueObject\Estate.cs" />
+    <Compile Include="Geolocation\ValueObject\ViaCepDomine.cs" />
+    <Compile Include="IEntity.cs" />
+    <Compile Include="Payment\Entity\CardData.cs" />
+    <Compile Include="Payment\Entity\CompanyReceivable.cs" />
+    <Compile Include="Payment\Entity\PaymentMethodNegotiation.cs" />
+    <Compile Include="Payment\PaymentEnums.cs" />
+    <Compile Include="Payment\Entity\PaymentTransaction.cs" />
+    <Compile Include="Payment\Entity\Payment.cs" />
+    <Compile Include="Payment\ValueObject\Card.cs" />
+    <Compile Include="Payment\ValueObject\PaymentMethod.cs" />
+    <Compile Include="Profile\Client\Entity\B2B\CondominiumApartment.cs" />
+    <Compile Include="Profile\Client\Entity\B2C\Client.cs" />
+    <Compile Include="Profile\Client\Entity\B2B\Condominium.cs" />
+    <Compile Include="Profile\Client\Entity\B2B\CondominiumManager.cs" />
+    <Compile Include="Profile\Client\Entity\B2B\CondominiumSecurityCompany.cs" />
+    <Compile Include="Profile\Client\Entity\B2B\CondominiumInternalTower.cs" />
+    <Compile Include="Profile\Client\Entity\B2B\CondominiumInternalStreet.cs" />
+    <Compile Include="Profile\Company\Entity\Company.cs" />
+    <Compile Include="Profile\Company\Entity\CompanyFile.cs" />
+    <Compile Include="Profile\Company\Entity\CompanyPartner.cs" />
+    <Compile Include="Profile\Company\Entity\CompanyCoverage.cs" />
+    <Compile Include="Profile\Company\Entity\CompanyPartnerFile.cs" />
+    <Compile Include="Profile\Company\ValueObject\ReceitawsDomine.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Profile\User\Entity\User.cs" />
+    <Compile Include="Revenues\Invoice.cs" />
+    <Compile Include="Revenues\Plan.cs" />
+    <Compile Include="Revenues\Signature.cs" />
+    <Compile Include="ServiceOrder\Entity\B2BOrder.cs" />
+    <Compile Include="ServiceOrder\Entity\B2BOrderEstimate.cs" />
+    <Compile Include="ServiceOrder\Entity\B2BOrderEstimateItem.cs" />
+    <Compile Include="ServiceOrder\Entity\B2BOrderFeedback.cs" />
+    <Compile Include="ServiceOrder\Entity\B2BOrderItem.cs" />
+    <Compile Include="ServiceOrder\Entity\B2BOrderItemAudit.cs" />
+    <Compile Include="ServiceOrder\Entity\Order.cs" />
+    <Compile Include="ServiceOrder\Entity\OrderEstimateItem.cs" />
+    <Compile Include="ServiceOrder\Entity\OrderExpedient.cs" />
+    <Compile Include="ServiceOrder\Entity\OrderItem.cs" />
+    <Compile Include="ServiceOrder\Entity\OrderItemAudit.cs" />
+    <Compile Include="ServiceOrder\Entity\OrderEstimate.cs" />
+    <Compile Include="ServiceOrder\Entity\OrderFeedback.cs" />
+    <Compile Include="ServiceOrder\Entity\OrderSchedule.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BeePlace.Infra\BeePlace.Infra.csproj">
+      <Project>{c51c9613-1bc4-4139-b3a0-0f40d5dd1d36}</Project>
+      <Name>BeePlace.Infra</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Expertise\ExpertiseClassDiagram.cd" />
+    <None Include="Geolocation\GeolocationClassDiagram.cd" />
+    <None Include="packages.config" />
+    <None Include="Payment\PaymentClassDiagram.cd" />
+    <None Include="Profile\Client\ClientClassDiagram.cd" />
+    <None Include="Profile\Company\CompanyClassDiagram.cd" />
+    <None Include="ServiceOrder\ServiceOrderClassDiagram.cd" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

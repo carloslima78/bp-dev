@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BeePlace.Model.Geolocation.Entity.Address">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <AssociationLine Name="Estates" Type="BeePlace.Model.Geolocation.ValueObject.Estate">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.485" Y="0.06" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>EAAACQCAAEAAACAABEAICAAAAAAAAAAAAEIABAAAAAA=</HashCode>
+      <FileName>Geolocation\Entity\Address.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Estates" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="BeePlace.Model.Geolocation.ValueObject.City">
+    <Position X="6" Y="1.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAACAAAAAAAAAAAQAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Geolocation\ValueObject\City.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BeePlace.Model.Geolocation.ValueObject.Estate">
+    <Position X="6" Y="4" Width="1.5" />
+    <AssociationLine Name="Cities" Type="BeePlace.Model.Geolocation.ValueObject.City">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.11" Y="0.185" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>EAAACAAAAAAAAAAAAAAAgAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Geolocation\ValueObject\Estate.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Cities" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

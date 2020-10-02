@@ -1,0 +1,67 @@
+C:\Work\BeePlace\BeePlace.Model\bin\Debug\BeePlace.Model.dll
+C:\Work\BeePlace\BeePlace.Model\bin\Debug\BeePlace.Model.pdb
+C:\Work\BeePlace\BeePlace.Model\bin\Debug\BeePlace.Infra.dll
+C:\Work\BeePlace\BeePlace.Model\bin\Debug\BeePlace.Infra.pdb
+C:\Work\BeePlace\BeePlace.Model\obj\Debug\BeePlace.Model.csprojAssemblyReference.cache
+C:\Work\BeePlace\BeePlace.Model\obj\Debug\BeePlace.Model.csproj.CoreCompileInputs.cache
+C:\Work\BeePlace\BeePlace.Model\obj\Debug\BeePlace.Model.csproj.CopyComplete
+C:\Work\BeePlace\BeePlace.Model\obj\Debug\BeePlace.Model.dll
+C:\Work\BeePlace\BeePlace.Model\obj\Debug\BeePlace.Model.pdb
+C:\Work\BeePlace\BeePlace.Model\bin\Debug\Microsoft.Azure.Storage.Blob.dll
+C:\Work\BeePlace\BeePlace.Model\bin\Debug\Microsoft.Azure.Storage.Common.dll
+C:\Work\BeePlace\BeePlace.Model\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Work\BeePlace\BeePlace.Model\bin\Debug\Newtonsoft.Json.dll
+C:\Work\BeePlace\BeePlace.Model\bin\Debug\Microsoft.Azure.Storage.Blob.pdb
+C:\Work\BeePlace\BeePlace.Model\bin\Debug\Microsoft.Azure.Storage.Blob.xml
+C:\Work\BeePlace\BeePlace.Model\bin\Debug\Microsoft.Azure.Storage.Common.pdb
+C:\Work\BeePlace\BeePlace.Model\bin\Debug\Microsoft.Azure.Storage.Common.xml
+C:\Work\BeePlace\BeePlace.Model\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Work\BeePlace\BeePlace.Model\bin\Debug\Newtonsoft.Json.xml
+C:\Workspace - BeePlaceServiceProvider\BeePlace\BeePlace.Model\bin\Debug\BeePlace.Model.dll
+C:\Workspace - BeePlaceServiceProvider\BeePlace\BeePlace.Model\bin\Debug\BeePlace.Model.pdb
+C:\Workspace - BeePlaceServiceProvider\BeePlace\BeePlace.Model\bin\Debug\BeePlace.Infra.dll
+C:\Workspace - BeePlaceServiceProvider\BeePlace\BeePlace.Model\bin\Debug\Microsoft.Azure.Storage.Blob.dll
+C:\Workspace - BeePlaceServiceProvider\BeePlace\BeePlace.Model\bin\Debug\Microsoft.Azure.Storage.Common.dll
+C:\Workspace - BeePlaceServiceProvider\BeePlace\BeePlace.Model\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Workspace - BeePlaceServiceProvider\BeePlace\BeePlace.Model\bin\Debug\Newtonsoft.Json.dll
+C:\Workspace - BeePlaceServiceProvider\BeePlace\BeePlace.Model\bin\Debug\BeePlace.Infra.pdb
+C:\Workspace - BeePlaceServiceProvider\BeePlace\BeePlace.Model\bin\Debug\Microsoft.Azure.Storage.Blob.pdb
+C:\Workspace - BeePlaceServiceProvider\BeePlace\BeePlace.Model\bin\Debug\Microsoft.Azure.Storage.Blob.xml
+C:\Workspace - BeePlaceServiceProvider\BeePlace\BeePlace.Model\bin\Debug\Microsoft.Azure.Storage.Common.pdb
+C:\Workspace - BeePlaceServiceProvider\BeePlace\BeePlace.Model\bin\Debug\Microsoft.Azure.Storage.Common.xml
+C:\Workspace - BeePlaceServiceProvider\BeePlace\BeePlace.Model\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Workspace - BeePlaceServiceProvider\BeePlace\BeePlace.Model\bin\Debug\Newtonsoft.Json.xml
+C:\Workspace - BeePlaceServiceProvider\BeePlace\BeePlace.Model\obj\Debug\BeePlace.Model.csprojAssemblyReference.cache
+C:\Workspace - BeePlaceServiceProvider\BeePlace\BeePlace.Model\obj\Debug\BeePlace.Model.csproj.CoreCompileInputs.cache
+C:\Workspace - BeePlaceServiceProvider\BeePlace\BeePlace.Model\obj\Debug\BeePlace.Model.csproj.CopyComplete
+C:\Workspace - BeePlaceServiceProvider\BeePlace\BeePlace.Model\obj\Debug\BeePlace.Model.dll
+C:\Workspace - BeePlaceServiceProvider\BeePlace\BeePlace.Model\obj\Debug\BeePlace.Model.pdb
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.Model\obj\Debug\BeePlace.Model.csprojAssemblyReference.cache
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.Model\bin\Debug\BeePlace.Model.dll
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.Model\bin\Debug\BeePlace.Model.pdb
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.Model\bin\Debug\BeePlace.Infra.dll
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.Model\bin\Debug\FluentValidation.dll
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.Model\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.Model\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.Model\bin\Debug\System.ValueTuple.dll
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.Model\bin\Debug\Microsoft.Azure.Storage.Blob.dll
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.Model\bin\Debug\Microsoft.Azure.Storage.Common.dll
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.Model\bin\Debug\Dommel.dll
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.Model\bin\Debug\Dapper.dll
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.Model\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.Model\bin\Debug\Newtonsoft.Json.dll
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.Model\bin\Debug\BeePlace.Infra.pdb
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.Model\bin\Debug\FluentValidation.xml
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.Model\bin\Debug\System.ValueTuple.xml
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.Model\bin\Debug\Microsoft.Azure.Storage.Blob.pdb
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.Model\bin\Debug\Microsoft.Azure.Storage.Blob.xml
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.Model\bin\Debug\Microsoft.Azure.Storage.Common.pdb
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.Model\bin\Debug\Microsoft.Azure.Storage.Common.xml
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.Model\bin\Debug\Dommel.xml
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.Model\bin\Debug\Dapper.xml
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.Model\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.Model\bin\Debug\Newtonsoft.Json.xml
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.Model\obj\Debug\BeePlace.Model.csproj.CopyComplete
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.Model\obj\Debug\BeePlace.Model.dll
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.Model\obj\Debug\BeePlace.Model.pdb
+C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.Model\obj\Debug\BeePlace.Model.csproj.CoreCompileInputs.cache
