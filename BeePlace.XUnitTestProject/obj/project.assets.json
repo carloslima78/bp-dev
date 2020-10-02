@@ -9604,11 +9604,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Workspace - BeePlaceServiceProvider\\00 - Trunk\\BeePlace.XUnitTestProject\\BeePlace.XUnitTestProject.csproj",
+      "projectUniqueName": "C:\\Work\\BeePlace-Git\\bp-dev\\BeePlace.XUnitTestProject\\BeePlace.XUnitTestProject.csproj",
       "projectName": "BeePlace.XUnitTestProject",
-      "projectPath": "C:\\Workspace - BeePlaceServiceProvider\\00 - Trunk\\BeePlace.XUnitTestProject\\BeePlace.XUnitTestProject.csproj",
+      "projectPath": "C:\\Work\\BeePlace-Git\\bp-dev\\BeePlace.XUnitTestProject\\BeePlace.XUnitTestProject.csproj",
       "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-      "outputPath": "C:\\Workspace - BeePlaceServiceProvider\\00 - Trunk\\BeePlace.XUnitTestProject\\obj\\",
+      "outputPath": "C:\\Work\\BeePlace-Git\\bp-dev\\BeePlace.XUnitTestProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -9627,8 +9627,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Workspace - BeePlaceServiceProvider\\00 - Trunk\\BeePlace.API.Standart\\BeePlace.API.Standart.csproj": {
-              "projectPath": "C:\\Workspace - BeePlaceServiceProvider\\00 - Trunk\\BeePlace.API.Standart\\BeePlace.API.Standart.csproj"
+            "C:\\Work\\BeePlace-Git\\bp-dev\\BeePlace.API.Standart\\BeePlace.API.Standart.csproj": {
+              "projectPath": "C:\\Work\\BeePlace-Git\\bp-dev\\BeePlace.API.Standart\\BeePlace.API.Standart.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Bkt4pN9BCXlpHNfaaiV9bIgBn14oXXNxbDcQ+Y/Ai3aHggx9mZF/jPbKplJe7BF1gske8Ox6d/NwHPi4wZTWMw==",
+  "dgSpecHash": "lo/ChKmwNwlATHO6hu8MSjt2+FnE/l9i0JNSvn2ulnC3RsVcYo93VUSnhNIfcI263viZBziT0KArqSU9Yk46sg==",
   "success": true,
-  "projectFilePath": "C:\\Workspace - BeePlaceServiceProvider\\00 - Trunk\\BeePlace.XUnitTestProject\\BeePlace.XUnitTestProject.csproj",
+  "projectFilePath": "C:\\Work\\BeePlace-Git\\bp-dev\\BeePlace.XUnitTestProject\\BeePlace.XUnitTestProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\carlo\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\carlo\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

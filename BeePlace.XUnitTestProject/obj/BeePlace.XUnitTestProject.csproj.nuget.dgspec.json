@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Workspace - BeePlaceServiceProvider\\00 - Trunk\\BeePlace.XUnitTestProject\\BeePlace.XUnitTestProject.csproj": {}
+    "C:\\Work\\BeePlace-Git\\bp-dev\\BeePlace.XUnitTestProject\\BeePlace.XUnitTestProject.csproj": {}
   },
   "projects": {
-    "C:\\Workspace - BeePlaceServiceProvider\\00 - Trunk\\BeePlace.API.Standart\\BeePlace.API.Standart.csproj": {
+    "C:\\Work\\BeePlace-Git\\bp-dev\\BeePlace.API.Standart\\BeePlace.API.Standart.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace - BeePlaceServiceProvider\\00 - Trunk\\BeePlace.API.Standart\\BeePlace.API.Standart.csproj",
+        "projectUniqueName": "C:\\Work\\BeePlace-Git\\bp-dev\\BeePlace.API.Standart\\BeePlace.API.Standart.csproj",
         "projectName": "BeePlace.API.Standart",
-        "projectPath": "C:\\Workspace - BeePlaceServiceProvider\\00 - Trunk\\BeePlace.API.Standart\\BeePlace.API.Standart.csproj",
+        "projectPath": "C:\\Work\\BeePlace-Git\\bp-dev\\BeePlace.API.Standart\\BeePlace.API.Standart.csproj",
         "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-        "outputPath": "C:\\Workspace - BeePlaceServiceProvider\\00 - Trunk\\BeePlace.API.Standart\\obj\\",
+        "outputPath": "C:\\Work\\BeePlace-Git\\bp-dev\\BeePlace.API.Standart\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,14 +30,14 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\Workspace - BeePlaceServiceProvider\\00 - Trunk\\BeePlace.Infra\\BeePlace.Infra.csproj": {
-                "projectPath": "C:\\Workspace - BeePlaceServiceProvider\\00 - Trunk\\BeePlace.Infra\\BeePlace.Infra.csproj"
+              "C:\\Work\\BeePlace-Git\\bp-dev\\BeePlace.Infra\\BeePlace.Infra.csproj": {
+                "projectPath": "C:\\Work\\BeePlace-Git\\bp-dev\\BeePlace.Infra\\BeePlace.Infra.csproj"
               },
-              "C:\\Workspace - BeePlaceServiceProvider\\00 - Trunk\\BeePlace.Model\\BeePlace.Model.csproj": {
-                "projectPath": "C:\\Workspace - BeePlaceServiceProvider\\00 - Trunk\\BeePlace.Model\\BeePlace.Model.csproj"
+              "C:\\Work\\BeePlace-Git\\bp-dev\\BeePlace.Model\\BeePlace.Model.csproj": {
+                "projectPath": "C:\\Work\\BeePlace-Git\\bp-dev\\BeePlace.Model\\BeePlace.Model.csproj"
               },
-              "C:\\Workspace - BeePlaceServiceProvider\\00 - Trunk\\BeePlace.Services\\BeePlace.Services.csproj": {
-                "projectPath": "C:\\Workspace - BeePlaceServiceProvider\\00 - Trunk\\BeePlace.Services\\BeePlace.Services.csproj"
+              "C:\\Work\\BeePlace-Git\\bp-dev\\BeePlace.Services\\BeePlace.Services.csproj": {
+                "projectPath": "C:\\Work\\BeePlace-Git\\bp-dev\\BeePlace.Services\\BeePlace.Services.csproj"
               }
             }
           }
@@ -91,28 +91,28 @@
         }
       }
     },
-    "C:\\Workspace - BeePlaceServiceProvider\\00 - Trunk\\BeePlace.Infra\\BeePlace.Infra.csproj": {
+    "C:\\Work\\BeePlace-Git\\bp-dev\\BeePlace.Infra\\BeePlace.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace - BeePlaceServiceProvider\\00 - Trunk\\BeePlace.Infra\\BeePlace.Infra.csproj",
+        "projectUniqueName": "C:\\Work\\BeePlace-Git\\bp-dev\\BeePlace.Infra\\BeePlace.Infra.csproj",
         "projectName": "BeePlace.Infra",
-        "projectPath": "C:\\Workspace - BeePlaceServiceProvider\\00 - Trunk\\BeePlace.Infra\\BeePlace.Infra.csproj"
+        "projectPath": "C:\\Work\\BeePlace-Git\\bp-dev\\BeePlace.Infra\\BeePlace.Infra.csproj"
       },
       "frameworks": {
         "net461": {}
       }
     },
-    "C:\\Workspace - BeePlaceServiceProvider\\00 - Trunk\\BeePlace.Model\\BeePlace.Model.csproj": {
+    "C:\\Work\\BeePlace-Git\\bp-dev\\BeePlace.Model\\BeePlace.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace - BeePlaceServiceProvider\\00 - Trunk\\BeePlace.Model\\BeePlace.Model.csproj",
+        "projectUniqueName": "C:\\Work\\BeePlace-Git\\bp-dev\\BeePlace.Model\\BeePlace.Model.csproj",
         "projectName": "BeePlace.Model",
-        "projectPath": "C:\\Workspace - BeePlaceServiceProvider\\00 - Trunk\\BeePlace.Model\\BeePlace.Model.csproj",
+        "projectPath": "C:\\Work\\BeePlace-Git\\bp-dev\\BeePlace.Model\\BeePlace.Model.csproj",
         "frameworks": {
           "net461": {
             "projectReferences": {
-              "C:\\Workspace - BeePlaceServiceProvider\\00 - Trunk\\BeePlace.Infra\\BeePlace.Infra.csproj": {
-                "projectPath": "C:\\Workspace - BeePlaceServiceProvider\\00 - Trunk\\BeePlace.Infra\\BeePlace.Infra.csproj"
+              "C:\\Work\\BeePlace-Git\\bp-dev\\BeePlace.Infra\\BeePlace.Infra.csproj": {
+                "projectPath": "C:\\Work\\BeePlace-Git\\bp-dev\\BeePlace.Infra\\BeePlace.Infra.csproj"
               }
             }
           }
@@ -122,20 +122,20 @@
         "net461": {}
       }
     },
-    "C:\\Workspace - BeePlaceServiceProvider\\00 - Trunk\\BeePlace.Services\\BeePlace.Services.csproj": {
+    "C:\\Work\\BeePlace-Git\\bp-dev\\BeePlace.Services\\BeePlace.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace - BeePlaceServiceProvider\\00 - Trunk\\BeePlace.Services\\BeePlace.Services.csproj",
+        "projectUniqueName": "C:\\Work\\BeePlace-Git\\bp-dev\\BeePlace.Services\\BeePlace.Services.csproj",
         "projectName": "BeePlace.Services",
-        "projectPath": "C:\\Workspace - BeePlaceServiceProvider\\00 - Trunk\\BeePlace.Services\\BeePlace.Services.csproj",
+        "projectPath": "C:\\Work\\BeePlace-Git\\bp-dev\\BeePlace.Services\\BeePlace.Services.csproj",
         "frameworks": {
           "net461": {
             "projectReferences": {
-              "C:\\Workspace - BeePlaceServiceProvider\\00 - Trunk\\BeePlace.Infra\\BeePlace.Infra.csproj": {
-                "projectPath": "C:\\Workspace - BeePlaceServiceProvider\\00 - Trunk\\BeePlace.Infra\\BeePlace.Infra.csproj"
+              "C:\\Work\\BeePlace-Git\\bp-dev\\BeePlace.Infra\\BeePlace.Infra.csproj": {
+                "projectPath": "C:\\Work\\BeePlace-Git\\bp-dev\\BeePlace.Infra\\BeePlace.Infra.csproj"
               },
-              "C:\\Workspace - BeePlaceServiceProvider\\00 - Trunk\\BeePlace.Model\\BeePlace.Model.csproj": {
-                "projectPath": "C:\\Workspace - BeePlaceServiceProvider\\00 - Trunk\\BeePlace.Model\\BeePlace.Model.csproj"
+              "C:\\Work\\BeePlace-Git\\bp-dev\\BeePlace.Model\\BeePlace.Model.csproj": {
+                "projectPath": "C:\\Work\\BeePlace-Git\\bp-dev\\BeePlace.Model\\BeePlace.Model.csproj"
               }
             }
           }
@@ -145,14 +145,14 @@
         "net461": {}
       }
     },
-    "C:\\Workspace - BeePlaceServiceProvider\\00 - Trunk\\BeePlace.XUnitTestProject\\BeePlace.XUnitTestProject.csproj": {
+    "C:\\Work\\BeePlace-Git\\bp-dev\\BeePlace.XUnitTestProject\\BeePlace.XUnitTestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace - BeePlaceServiceProvider\\00 - Trunk\\BeePlace.XUnitTestProject\\BeePlace.XUnitTestProject.csproj",
+        "projectUniqueName": "C:\\Work\\BeePlace-Git\\bp-dev\\BeePlace.XUnitTestProject\\BeePlace.XUnitTestProject.csproj",
         "projectName": "BeePlace.XUnitTestProject",
-        "projectPath": "C:\\Workspace - BeePlaceServiceProvider\\00 - Trunk\\BeePlace.XUnitTestProject\\BeePlace.XUnitTestProject.csproj",
+        "projectPath": "C:\\Work\\BeePlace-Git\\bp-dev\\BeePlace.XUnitTestProject\\BeePlace.XUnitTestProject.csproj",
         "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-        "outputPath": "C:\\Workspace - BeePlaceServiceProvider\\00 - Trunk\\BeePlace.XUnitTestProject\\obj\\",
+        "outputPath": "C:\\Work\\BeePlace-Git\\bp-dev\\BeePlace.XUnitTestProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -171,8 +171,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\Workspace - BeePlaceServiceProvider\\00 - Trunk\\BeePlace.API.Standart\\BeePlace.API.Standart.csproj": {
-                "projectPath": "C:\\Workspace - BeePlaceServiceProvider\\00 - Trunk\\BeePlace.API.Standart\\BeePlace.API.Standart.csproj"
+              "C:\\Work\\BeePlace-Git\\bp-dev\\BeePlace.API.Standart\\BeePlace.API.Standart.csproj": {
+                "projectPath": "C:\\Work\\BeePlace-Git\\bp-dev\\BeePlace.API.Standart\\BeePlace.API.Standart.csproj"
               }
             }
           }

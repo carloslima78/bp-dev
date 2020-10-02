@@ -297,6 +297,11 @@ namespace BeePlace.API.Standart.Controllers.ServiceOrder
             }
         }
 
+        /// <summary>
+        /// Responsável por consultar a agenda disponível da empresa prestadora de serviços
+        /// </summary>
+        /// <param name="scheduleDTO">Objeto contendo a data inicial e data final para consulta da agenda</param>
+        /// <returns>Lista de agendas disponíveis</returns>
         [HttpPost]
         public ActionResult<ObjectResult> ScheduleByDate(ScheduleDTO scheduleDTO)
         {

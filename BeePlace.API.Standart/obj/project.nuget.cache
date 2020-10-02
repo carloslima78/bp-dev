@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qixf1bv206vZxvYkI63qLSijcY+U83OedU0BE5MO4w907od9JK1e/Mohmm3naS9yARxoWLnwG0SO/EPXM/OEIw==",
+  "dgSpecHash": "PrIsKmUo7AUsPzSTUAnM9fs19X55F1gp8FUC23Yku4RMlRuTYooP/NRP5H51eGl3RnAl04B58aXEsuyTpzc/HA==",
   "success": true,
-  "projectFilePath": "C:\\Workspace - BeePlaceServiceProvider\\00 - Trunk\\BeePlace.API.Standart\\BeePlace.API.Standart.csproj",
+  "projectFilePath": "C:\\Work\\BeePlace-Git\\bp-dev\\BeePlace.API.Standart\\BeePlace.API.Standart.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",

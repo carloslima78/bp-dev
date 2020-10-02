@@ -57,3 +57,29 @@ C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.Infra\obj\Debug\BeePl
 C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.Infra\obj\Debug\BeePlace.Infra.dll
 C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.Infra\obj\Debug\BeePlace.Infra.pdb
 C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.Infra\obj\Debug\BeePlace.Infra.csproj.CoreCompileInputs.cache
+C:\Work\BeePlace-Git\bp-dev\BeePlace.Infra\bin\Debug\BeePlace.Infra.dll
+C:\Work\BeePlace-Git\bp-dev\BeePlace.Infra\bin\Debug\BeePlace.Infra.pdb
+C:\Work\BeePlace-Git\bp-dev\BeePlace.Infra\bin\Debug\Dapper.dll
+C:\Work\BeePlace-Git\bp-dev\BeePlace.Infra\bin\Debug\Dapper.FluentMap.dll
+C:\Work\BeePlace-Git\bp-dev\BeePlace.Infra\bin\Debug\Dapper.FluentMap.Dommel.dll
+C:\Work\BeePlace-Git\bp-dev\BeePlace.Infra\bin\Debug\Dommel.dll
+C:\Work\BeePlace-Git\bp-dev\BeePlace.Infra\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Work\BeePlace-Git\bp-dev\BeePlace.Infra\bin\Debug\Microsoft.Azure.Storage.Blob.dll
+C:\Work\BeePlace-Git\bp-dev\BeePlace.Infra\bin\Debug\Microsoft.Azure.Storage.Common.dll
+C:\Work\BeePlace-Git\bp-dev\BeePlace.Infra\bin\Debug\Newtonsoft.Json.dll
+C:\Work\BeePlace-Git\bp-dev\BeePlace.Infra\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Work\BeePlace-Git\bp-dev\BeePlace.Infra\bin\Debug\Dapper.xml
+C:\Work\BeePlace-Git\bp-dev\BeePlace.Infra\bin\Debug\Dapper.FluentMap.xml
+C:\Work\BeePlace-Git\bp-dev\BeePlace.Infra\bin\Debug\Dapper.FluentMap.Dommel.xml
+C:\Work\BeePlace-Git\bp-dev\BeePlace.Infra\bin\Debug\Dommel.xml
+C:\Work\BeePlace-Git\bp-dev\BeePlace.Infra\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Work\BeePlace-Git\bp-dev\BeePlace.Infra\bin\Debug\Microsoft.Azure.Storage.Blob.pdb
+C:\Work\BeePlace-Git\bp-dev\BeePlace.Infra\bin\Debug\Microsoft.Azure.Storage.Blob.xml
+C:\Work\BeePlace-Git\bp-dev\BeePlace.Infra\bin\Debug\Microsoft.Azure.Storage.Common.pdb
+C:\Work\BeePlace-Git\bp-dev\BeePlace.Infra\bin\Debug\Microsoft.Azure.Storage.Common.xml
+C:\Work\BeePlace-Git\bp-dev\BeePlace.Infra\bin\Debug\Newtonsoft.Json.xml
+C:\Work\BeePlace-Git\bp-dev\BeePlace.Infra\obj\Debug\BeePlace.Infra.csproj.CoreCompileInputs.cache
+C:\Work\BeePlace-Git\bp-dev\BeePlace.Infra\obj\Debug\BeePlace.Infra.csproj.CopyComplete
+C:\Work\BeePlace-Git\bp-dev\BeePlace.Infra\obj\Debug\BeePlace.Infra.dll
+C:\Work\BeePlace-Git\bp-dev\BeePlace.Infra\obj\Debug\BeePlace.Infra.pdb
+C:\Work\BeePlace-Git\bp-dev\BeePlace.Infra\obj\Debug\BeePlace.Infra.csprojAssemblyReference.cache

@@ -40,3 +40,45 @@ C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.XUnitTestProject\bin\
 C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.XUnitTestProject\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
 C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.XUnitTestProject\obj\Debug\netcoreapp2.1\BeePlace.XUnitTestProject.csproj.CoreCompileInputs.cache
 C:\Workspace - BeePlaceServiceProvider\00 - Trunk\BeePlace.XUnitTestProject\obj\Debug\netcoreapp2.1\BeePlace.XUnitTestProject.genruntimeconfig.cache
+C:\Work\BeePlace-Git\bp-dev\BeePlace.XUnitTestProject\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Work\BeePlace-Git\bp-dev\BeePlace.XUnitTestProject\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Work\BeePlace-Git\bp-dev\BeePlace.XUnitTestProject\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Work\BeePlace-Git\bp-dev\BeePlace.XUnitTestProject\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Work\BeePlace-Git\bp-dev\BeePlace.XUnitTestProject\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Work\BeePlace-Git\bp-dev\BeePlace.XUnitTestProject\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Work\BeePlace-Git\bp-dev\BeePlace.XUnitTestProject\bin\Debug\netcoreapp2.1\BeePlace.XUnitTestProject.deps.json
+C:\Work\BeePlace-Git\bp-dev\BeePlace.XUnitTestProject\bin\Debug\netcoreapp2.1\BeePlace.XUnitTestProject.runtimeconfig.json
+C:\Work\BeePlace-Git\bp-dev\BeePlace.XUnitTestProject\bin\Debug\netcoreapp2.1\BeePlace.XUnitTestProject.runtimeconfig.dev.json
+C:\Work\BeePlace-Git\bp-dev\BeePlace.XUnitTestProject\bin\Debug\netcoreapp2.1\BeePlace.XUnitTestProject.dll
+C:\Work\BeePlace-Git\bp-dev\BeePlace.XUnitTestProject\bin\Debug\netcoreapp2.1\BeePlace.XUnitTestProject.pdb
+C:\Work\BeePlace-Git\bp-dev\BeePlace.XUnitTestProject\bin\Debug\netcoreapp2.1\BeePlace.API.Standart.dll
+C:\Work\BeePlace-Git\bp-dev\BeePlace.XUnitTestProject\bin\Debug\netcoreapp2.1\BeePlace.Infra.dll
+C:\Work\BeePlace-Git\bp-dev\BeePlace.XUnitTestProject\bin\Debug\netcoreapp2.1\BeePlace.Model.dll
+C:\Work\BeePlace-Git\bp-dev\BeePlace.XUnitTestProject\bin\Debug\netcoreapp2.1\BeePlace.Services.dll
+C:\Work\BeePlace-Git\bp-dev\BeePlace.XUnitTestProject\bin\Debug\netcoreapp2.1\Microsoft.Azure.Storage.Blob.dll
+C:\Work\BeePlace-Git\bp-dev\BeePlace.XUnitTestProject\bin\Debug\netcoreapp2.1\Microsoft.Azure.Storage.Common.dll
+C:\Work\BeePlace-Git\bp-dev\BeePlace.XUnitTestProject\bin\Debug\netcoreapp2.1\Dommel.dll
+C:\Work\BeePlace-Git\bp-dev\BeePlace.XUnitTestProject\bin\Debug\netcoreapp2.1\Dapper.dll
+C:\Work\BeePlace-Git\bp-dev\BeePlace.XUnitTestProject\bin\Debug\netcoreapp2.1\FluentValidation.dll
+C:\Work\BeePlace-Git\bp-dev\BeePlace.XUnitTestProject\bin\Debug\netcoreapp2.1\Microsoft.Azure.KeyVault.Core.dll
+C:\Work\BeePlace-Git\bp-dev\BeePlace.XUnitTestProject\bin\Debug\netcoreapp2.1\BeePlace.API.Standart.pdb
+C:\Work\BeePlace-Git\bp-dev\BeePlace.XUnitTestProject\bin\Debug\netcoreapp2.1\BeePlace.Infra.pdb
+C:\Work\BeePlace-Git\bp-dev\BeePlace.XUnitTestProject\bin\Debug\netcoreapp2.1\BeePlace.Model.pdb
+C:\Work\BeePlace-Git\bp-dev\BeePlace.XUnitTestProject\bin\Debug\netcoreapp2.1\BeePlace.Services.pdb
+C:\Work\BeePlace-Git\bp-dev\BeePlace.XUnitTestProject\bin\Debug\netcoreapp2.1\BeePlace.Services.dll.config
+C:\Work\BeePlace-Git\bp-dev\BeePlace.XUnitTestProject\bin\Debug\netcoreapp2.1\Microsoft.Azure.Storage.Blob.pdb
+C:\Work\BeePlace-Git\bp-dev\BeePlace.XUnitTestProject\bin\Debug\netcoreapp2.1\Microsoft.Azure.Storage.Blob.xml
+C:\Work\BeePlace-Git\bp-dev\BeePlace.XUnitTestProject\bin\Debug\netcoreapp2.1\Microsoft.Azure.Storage.Common.pdb
+C:\Work\BeePlace-Git\bp-dev\BeePlace.XUnitTestProject\bin\Debug\netcoreapp2.1\Microsoft.Azure.Storage.Common.xml
+C:\Work\BeePlace-Git\bp-dev\BeePlace.XUnitTestProject\bin\Debug\netcoreapp2.1\Dommel.xml
+C:\Work\BeePlace-Git\bp-dev\BeePlace.XUnitTestProject\bin\Debug\netcoreapp2.1\Dapper.xml
+C:\Work\BeePlace-Git\bp-dev\BeePlace.XUnitTestProject\bin\Debug\netcoreapp2.1\FluentValidation.xml
+C:\Work\BeePlace-Git\bp-dev\BeePlace.XUnitTestProject\bin\Debug\netcoreapp2.1\Microsoft.Azure.KeyVault.Core.xml
+C:\Work\BeePlace-Git\bp-dev\BeePlace.XUnitTestProject\obj\Debug\netcoreapp2.1\BeePlace.XUnitTestProject.csprojAssemblyReference.cache
+C:\Work\BeePlace-Git\bp-dev\BeePlace.XUnitTestProject\obj\Debug\netcoreapp2.1\BeePlace.XUnitTestProject.csproj.CoreCompileInputs.cache
+C:\Work\BeePlace-Git\bp-dev\BeePlace.XUnitTestProject\obj\Debug\netcoreapp2.1\BeePlace.XUnitTestProject.AssemblyInfoInputs.cache
+C:\Work\BeePlace-Git\bp-dev\BeePlace.XUnitTestProject\obj\Debug\netcoreapp2.1\BeePlace.XUnitTestProject.AssemblyInfo.cs
+C:\Work\BeePlace-Git\bp-dev\BeePlace.XUnitTestProject\obj\Debug\netcoreapp2.1\BeePlace.XUnitTestProject.csproj.CopyComplete
+C:\Work\BeePlace-Git\bp-dev\BeePlace.XUnitTestProject\obj\Debug\netcoreapp2.1\BeePlace.XUnitTestProject.dll
+C:\Work\BeePlace-Git\bp-dev\BeePlace.XUnitTestProject\obj\Debug\netcoreapp2.1\BeePlace.XUnitTestProject.pdb
+C:\Work\BeePlace-Git\bp-dev\BeePlace.XUnitTestProject\obj\Debug\netcoreapp2.1\BeePlace.XUnitTestProject.genruntimeconfig.cache

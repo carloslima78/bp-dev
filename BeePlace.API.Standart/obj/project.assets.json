@@ -12695,11 +12695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Workspace - BeePlaceServiceProvider\\00 - Trunk\\BeePlace.API.Standart\\BeePlace.API.Standart.csproj",
+      "projectUniqueName": "C:\\Work\\BeePlace-Git\\bp-dev\\BeePlace.API.Standart\\BeePlace.API.Standart.csproj",
       "projectName": "BeePlace.API.Standart",
-      "projectPath": "C:\\Workspace - BeePlaceServiceProvider\\00 - Trunk\\BeePlace.API.Standart\\BeePlace.API.Standart.csproj",
+      "projectPath": "C:\\Work\\BeePlace-Git\\bp-dev\\BeePlace.API.Standart\\BeePlace.API.Standart.csproj",
       "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-      "outputPath": "C:\\Workspace - BeePlaceServiceProvider\\00 - Trunk\\BeePlace.API.Standart\\obj\\",
+      "outputPath": "C:\\Work\\BeePlace-Git\\bp-dev\\BeePlace.API.Standart\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12718,14 +12718,14 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Workspace - BeePlaceServiceProvider\\00 - Trunk\\BeePlace.Infra\\BeePlace.Infra.csproj": {
-              "projectPath": "C:\\Workspace - BeePlaceServiceProvider\\00 - Trunk\\BeePlace.Infra\\BeePlace.Infra.csproj"
+            "C:\\Work\\BeePlace-Git\\bp-dev\\BeePlace.Infra\\BeePlace.Infra.csproj": {
+              "projectPath": "C:\\Work\\BeePlace-Git\\bp-dev\\BeePlace.Infra\\BeePlace.Infra.csproj"
             },
-            "C:\\Workspace - BeePlaceServiceProvider\\00 - Trunk\\BeePlace.Model\\BeePlace.Model.csproj": {
-              "projectPath": "C:\\Workspace - BeePlaceServiceProvider\\00 - Trunk\\BeePlace.Model\\BeePlace.Model.csproj"
+            "C:\\Work\\BeePlace-Git\\bp-dev\\BeePlace.Model\\BeePlace.Model.csproj": {
+              "projectPath": "C:\\Work\\BeePlace-Git\\bp-dev\\BeePlace.Model\\BeePlace.Model.csproj"
             },
-            "C:\\Workspace - BeePlaceServiceProvider\\00 - Trunk\\BeePlace.Services\\BeePlace.Services.csproj": {
-              "projectPath": "C:\\Workspace - BeePlaceServiceProvider\\00 - Trunk\\BeePlace.Services\\BeePlace.Services.csproj"
+            "C:\\Work\\BeePlace-Git\\bp-dev\\BeePlace.Services\\BeePlace.Services.csproj": {
+              "projectPath": "C:\\Work\\BeePlace-Git\\bp-dev\\BeePlace.Services\\BeePlace.Services.csproj"
             }
           }
         }
